@@ -17,7 +17,7 @@ A Few useful VS Code snippets for Haskell.
 			"instance ${1:TypeclassName} ${2:Type} where",
 			"\t${3:function} = ${4:undefined}"
 		],
-		"description": "Create new typeclass instance"
+		"description": "Create typeclass instance"
 	},
 
 	"Case statement": {
