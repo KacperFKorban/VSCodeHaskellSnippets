@@ -4,7 +4,7 @@ A Few useful VS Code snippets for Haskell.
 ## Installation
 1. Install `Haskell Syntax Highlighting` Extension
 2. Open `Command Palette` type `snippets`, select `Preferences: Configure User Snippets` and confirm. Then type `Haskell` and press `Enter`.
-3. Copy the snippets below and paste them inside the curly brackets.
+3. Copy the snippets below, paste them inside the curly brackets and save the file.
 
 ## Snippets
 
