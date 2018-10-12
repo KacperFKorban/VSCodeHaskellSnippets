@@ -1,7 +1,7 @@
 # VSCodeHaskellSnippets
 A Few useful VS Code snippets for Haskell.
 
-{
+
 	"Typeclass declaration": {
 		"prefix": "class",
 		"body": [
@@ -28,4 +28,4 @@ A Few useful VS Code snippets for Haskell.
 		],
 		"description": "Create case statement"
 	},
-}
+
