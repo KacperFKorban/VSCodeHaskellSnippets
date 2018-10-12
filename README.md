@@ -31,7 +31,7 @@ A Few useful VS Code snippets for Haskell.
 	"prefix": "case",
 	"body": [
 		"case ${1:value} of",
-		"\t${3:_} -> ${4:_}"
+		"\t${2:_} -> ${3:_}"
 	],
 	"description": "Create case statement"
 },
